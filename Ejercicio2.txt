@@ -1,0 +1,27 @@
+1) top
+mayus +m
+mayus +t
+
+2) Los comandos cat, more y less permiten mostar el contenido de ficheros de textos desde la lenia de comando; sus principales caracteristicas y diferencias son:
+
+Cat: El comando CAT se utiliza para mostrar y concatenar texto de varios ficheros.
+
+More:El comando MORE permite visualizar por pantalla el contenido de un fichero de texto, con la diferencia con el anterior de que ‘more’ pagina los resultados. Primero mostrará por pantalla todo lo que se pueda visualizar sin hacer scroll y después, pulsando la tecla espacio avanzará de igual modo por el fichero.
+
+Less: LESS es un comando más eficiente y rápido que MORE para archivos muy extensos ya que este en lugar de cargar todo el contenido y mostrárnoslo según lo vayamos pidiendo, este solo lo va cargando según lo vayamos necesitando.
+
+3) ls -sn> archivos.txt
+du -sh>archivo.txt
+
+4)cat -A archivos.txt
+
+5)ls -sh> "info_txt.txt"
+cat archivos.txt >info_txt.txt
+
+6)rm “archivos.txt
+
+7)
+
+8)ls>archivosOriginal.txt
+cp archivosOriginal.txt archivosOriginal1.txt
+rm  archivosOriginal.txt
